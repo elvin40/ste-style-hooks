@@ -1,0 +1,10 @@
+{
+  "name": "ste-style-hooks",
+  "version": "0.7.3",
+  "description": "Prose style hook in the spirit of ASD-STE100 Simplified Technical English: a per-prompt style reminder that feeds drift in recent replies back to the model, with an optional block-and-rewrite mode.",
+  "author": {
+    "name": "Elvin Fu",
+    "url": "https://github.com/elvin40"
+  },
+  "hooks": "./hooks/hooks.json"
+}

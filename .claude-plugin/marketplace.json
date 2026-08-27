@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ste-style-hooks",
+  "description": "Prose style hooks in the spirit of ASD-STE100 Simplified Technical English.",
+  "owner": {
+    "name": "Elvin Fu",
+    "url": "https://github.com/elvin40"
+  },
+  "plugins": [
+    {
+      "name": "ste-style-hooks",
+      "description": "Per-prompt style reminder with drift feedback for Claude chat responses.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
